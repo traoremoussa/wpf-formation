@@ -1,0 +1,11 @@
+<Window x:Class="KodiatechFolderLock.DashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dashboard" Height="200" Width="300">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Bienvenue sur le tableau de bord" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10" />
+            <Button x:Name="btnDoSomething" Width="140" Click="BtnDoSomething_Click">Cliquez-moi</Button>
+        </StackPanel>
+    </Grid>
+</Window>
