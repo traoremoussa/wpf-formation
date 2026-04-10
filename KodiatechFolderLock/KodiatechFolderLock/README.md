@@ -53,3 +53,15 @@ Remarques de sécurité et limites :
 - Pour une protection réelle, envisager le chiffrement (EFS, AES côté application) et une gestion stricte des permissions.
 
 Si vous voulez, j'ajoute la navigation avec passage de paramètres ou je sécurise l'authentification.
+
+
+----------------------------------------------------------
+🚀 Prochaine étape (fort impact)
+
+Si tu veux passer niveau outil sérieux :
+
+👉 Ajouter :
+
+cache visuel (Hidden + System)
+liste des dossiers verrouillés (UI)
+mot de passe global

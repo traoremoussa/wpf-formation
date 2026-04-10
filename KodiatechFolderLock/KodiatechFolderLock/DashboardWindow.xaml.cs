@@ -10,7 +10,6 @@ namespace KodiatechFolderLock
         public DashboardWindow()
         {
             InitializeComponent();
-            this.DataContext = new ViewModels.DashboardViewModel();
         }
         private void BtnDoSomething_Click(object sender, RoutedEventArgs e)
         {
